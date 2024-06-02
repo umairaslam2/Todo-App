@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+
+
+
+.bg-image {
+    height: 100vh;
+    background-image: url(images/main1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    margin-bottom: 25px;
+}
+
+
+
+.fifth{
+    text-align: center;
+    justify-content: center;
+    border: 10px;
+    width: 200px;
+    height: 20px;
+}
+
+
+.addtodo{
+    background-color: rgb(194, 46, 207);
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    justify-content: center; 
+}
+
+.delete{
+    background-color: yellowgreen;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.{
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+
+.editBtn{
+    background-color: rgb(61, 19, 199);
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
+
+.delBtn{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
